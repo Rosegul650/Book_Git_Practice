@@ -1,0 +1,2 @@
+This is a new page under chapter 2
+some notes in remote repository
